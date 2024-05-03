@@ -106,7 +106,7 @@ Si alguna aplicación dentro de tu contenedor necesita ser accesible desde fuera
 
 Entonces podemos decir que cualquier conexión o solicitud que llegue al puerto 'x' de la maquina host, será mapeada al puerto 'y' del contenedor.
 
-![Port Mapping](latex/img/port_mapping.png){width='100px'}
+<img src="latex/img/port_mapping.png" alt="Port Mapping" width="100px">
 
 ---
 > Crear un contenedor con por mapping
