@@ -1,4 +1,4 @@
-# What is a container?
+# What is a container? :whale:
 Un contendor es una forma de poder empaquetar nuestras aplicaciones, con todas las
 dependencias que este tenga, **incluyendo sus archivos de configuracion** 
 
@@ -106,7 +106,7 @@ Si alguna aplicación dentro de tu contenedor necesita ser accesible desde fuera
 
 Entonces podemos decir que cualquier conexión o solicitud que llegue al puerto 'x' de la maquina host, será mapeada al puerto 'y' del contenedor.
 
-<img src="latex/img/port_mapping.png" alt="Port Mapping" width="100px">
+<img src="latex/img/port_mapping.png" alt="Port Mapping">
 
 ---
 > Crear un contenedor con por mapping
