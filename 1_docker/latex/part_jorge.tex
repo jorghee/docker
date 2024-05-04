@@ -162,6 +162,23 @@ Por ultimo habilitamos la configuración y como siempre, reiniciamos el servidor
   \caption{Habilitando las configuración}
 \end{figure}
 
+\subsection{Agregando un usuario para que pueda controlar el sitio web creado}
+Podemos agegar a un usuario para que se encargue de  administrar este sitio web. Entonces lo primero 
+que haremos es crear el usuario en el sistema y después cambiaremos el propietario y el grupo del directorio 
+raiz \textit{/aplicaciones\_web} y todos los directorios y archivos dentro de este.
 
+\begin{figure}[H]
+  \centering
+  \includegraphics[width=0.8\textwidth]{img/adduser.png}
+  \caption{Agregado un usuario y cambiando propietario}
+\end{figure}
+
+Ahora podemos probar el servicio SSH, para ello lo vamos a activar y nos conectaremos desde la maquina host
+
+\begin{figure}[H]
+  \centering
+  \includegraphics[width=1.0\textwidth]{img/ssh.png}
+  \caption{El servicio de SSH esta habilitado}
+\end{figure}
 
 
