@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1714846164 "/home/user/lab-pweb2/1_docker/latex/docker_report.tex" "docker_report.pdf" "docker_report" 1714846164
+["pdflatex"] 1714869198 "/home/user/lab-pweb2/1_docker/latex/docker_report.tex" "docker_report.pdf" "docker_report" 1714869198
   "/dev/null" 1714827424 0 d41d8cd98f00b204e9800998ecf8427e ""
   "/etc/texmf/web2c/texmf.cnf" 1695244730 475 c0e671620eb5563b2130f56340a5fde8 ""
   "/home/user/lab-pweb2/1_docker/latex/docker_report.tex" 1714829470 1865 e5cf00b8117b4f69434855147320e601 ""
@@ -96,7 +96,7 @@
   "/usr/share/texmf/web2c/texmf.cnf" 1644012257 39432 7155514e09a3d69036fac785183a21c2 ""
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1695244742 4379155 98693266ff65f58d9f98aff394de12d2 ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1714196407 2799121 4e2511042be7bc5e9f4c5f197685c55d ""
-  "docker_report.aux" 1714846164 32 3985256e7290058c681f74d7a3565a19 "pdflatex"
+  "docker_report.aux" 1714869198 32 3985256e7290058c681f74d7a3565a19 "pdflatex"
   "docker_report.out" 0 -1 0 "pdflatex"
   "docker_report.tex" 1714829470 1865 e5cf00b8117b4f69434855147320e601 ""
   "img/Activacion_configuracion.png" 1714833364 196841 75319cdacb82dd6c3154a8a8bd3fab7b ""
@@ -171,7 +171,7 @@
   "part_jorge.aux" 0 -1 0 "pdflatex"
   "part_jorge.tex" 1714846122 8066 e507f303588d6c98120fc250cb3ce4de ""
   "part_victor.aux" 0 -1 0 "pdflatex"
-  "part_victor.tex" 1714846157 9726 26039649faaa0a5ef194311f1147fce0 ""
+  "part_victor.tex" 1714869191 10834 d1aab736d06d4f175734cb693f36a636 ""
   (generated)
   "docker_report.aux"
   "docker_report.log"
